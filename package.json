@@ -1,0 +1,21 @@
+{
+  "name": "xmllocal",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch --reporter min"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cheerio": "^1.0.0-rc.3",
+    "expect": "^26.5.0",
+    "express": "^4.17.1",
+    "mocha": "^8.1.3",
+    "morgan": "^1.10.0",
+    "nconf": "^0.10.0",
+    "node-dir": "^0.1.17",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}

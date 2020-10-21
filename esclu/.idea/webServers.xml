@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="849e88eb-421a-4ed0-afcf-6fe979109711" name="192.168.126.133">
+        <fileTransfer rootFolder="/opt/nodeproject/esclu" accessType="SFTP" host="192.168.126.133" port="22" sshConfigId="9c8f7397-a190-4492-ba2a-5e4740fce486" sshConfig="root@192.168.126.133:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

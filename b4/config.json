@@ -1,0 +1,11 @@
+{
+    "port": 60900,
+    "es": {
+        "host": "192.168.237.128",
+        "port": 9200,
+        "books_index": "books",
+        "bundles_index": "b4"
+    }
+
+
+}

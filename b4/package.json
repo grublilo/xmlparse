@@ -1,0 +1,11 @@
+{
+  "name": "b4",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodemon": "2.0.5"
+  },
+  "script": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified \"&& exit 1"
+  }
+}
